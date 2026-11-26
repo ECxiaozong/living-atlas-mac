@@ -1,0 +1,5 @@
+module CAtlasArchive [system] {
+  header "archive_api.h"
+  link "archive"
+  export *
+}

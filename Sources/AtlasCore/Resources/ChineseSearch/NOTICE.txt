@@ -1,0 +1,4 @@
+Chinese passage retrieval uses BAAI/bge-small-zh-v1.5 (MIT), revision
+7999e1d3359715c523056ef9478215996d62a620, from Beijing Academy of Artificial Intelligence.
+https://huggingface.co/BAAI/bge-small-zh-v1.5/tree/7999e1d3359715c523056ef9478215996d62a620
+Core ML conversion uses 128 WordPiece tokens, the final CLS state and int8 weight compression.
